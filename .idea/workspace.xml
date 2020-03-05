@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef603fc3-f195-40fa-bd7c-fa8ad91479ee" name="Default Changelist" comment="" />
+    <list default="true" id="ef603fc3-f195-40fa-bd7c-fa8ad91479ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Example.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Example.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +119,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YiV9gBMSmh9anEhhMXsoo24LEH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -143,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583425251347</updated>
-      <workItem from="1583425253131" duration="915000" />
+      <workItem from="1583425253131" duration="1459000" />
     </task>
     <servers />
   </component>
